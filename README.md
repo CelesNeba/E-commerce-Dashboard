@@ -25,4 +25,6 @@ reviews and inconsistent rating scales.
 
 
 
-
+<a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecommerce_product_reviews_clean.csv" target="_blank">
+  View ecommerce_product_reviews_clean.csv
+</a>
