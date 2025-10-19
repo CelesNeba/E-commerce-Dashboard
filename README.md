@@ -73,7 +73,10 @@ analysis of reviews.
 
 
 
-![E-commerce Database & Tables](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecom%20database%20&%20tables%20screenshot.png?raw=true)
+
+
+![E-commerce Database & Tables](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecom%20database%20%26%20tables%20screnshort.png?raw=true)
+
 
 
 
