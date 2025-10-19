@@ -61,6 +61,11 @@ analysis of reviews.
 
 #### Phase 2: SQL Database Integration 
 
+
+
+![E-commerce Database & Tables](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecom%20database%20&%20tables%20screenshot.png)
+
+
 1. Set up a database with Mysql. 
 
 2. Create tables for each dataset (Customer Info, Purchase History, Product Reviews). 
