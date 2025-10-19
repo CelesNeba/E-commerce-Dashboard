@@ -83,6 +83,10 @@ analysis of reviews.
 
 
 #### 4. Run SQL queries: 
+
+
 o Most purchased products. 
+
+
 o Top customers by lifetime value. 
 o Product rating trends over time. 
