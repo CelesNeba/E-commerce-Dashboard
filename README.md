@@ -56,4 +56,18 @@ analysis of reviews.
 
 4. Handle missing values using appropriate techniques (mean, median, or removal). 
 
-5. Export the cleaned data to new CSV files. 
+5. Export the cleaned data to new CSV files.
+
+
+#### Phase 2: SQL Database Integration 
+
+1. Set up a database with Mysql. 
+
+2. Create tables for each dataset (Customer Info, Purchase History, Product Reviews). 
+
+3. Import cleaned CSV files into SQL tables.
+
+#### 4. Run SQL queries: 
+o Most purchased products. 
+o Top customers by lifetime value. 
+o Product rating trends over time. 
