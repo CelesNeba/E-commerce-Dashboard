@@ -44,3 +44,16 @@ purchased products or identifying customers with the highest lifetime value.
 
 • Tableau: Visualize trends such as top-selling products, regional sales distribution, and sentiment 
 analysis of reviews. 
+
+
+#### Phase 1: Data Cleaning with Python 
+
+1. Import datasets using Pandas. 
+
+2. Check for missing values, duplicates, and outliers. 
+
+3. Standardize inconsistent formats (e.g., date formats, currency). 
+
+4. Handle missing values using appropriate techniques (mean, median, or removal). 
+
+5. Export the cleaned data to new CSV files. 
