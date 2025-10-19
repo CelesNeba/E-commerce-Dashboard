@@ -100,3 +100,16 @@ analysis of reviews.
 
 ![Average Rating Trend](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/Avg%20ratint%20trend%20screenshot%20.png?raw=true)
 
+
+#### Phase 3: Data Visualization with Tableau
+
+1. Connect Tableau to the Mysql database. 
+
+2. Create dashboards: 
+
+o Regional sales distribution. 
+
+o Product popularity trends. 
+
+o Customer sentiment analysis from reviews.
+
