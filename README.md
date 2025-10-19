@@ -71,7 +71,10 @@ analysis of reviews.
 
 3. Import cleaned CSV files into SQL tables.
 
+
+
 ![E-commerce Database & Tables](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecom%20database%20&%20tables%20screenshot.png?raw=true)
+
 
 
 
