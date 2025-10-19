@@ -85,7 +85,10 @@ analysis of reviews.
 #### 4. Run SQL queries: 
 
 
-o Most purchased products. 
+#### Most Purchased Product Screenshot
+
+![Most Purchased Product](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/Most%20purchase%20product%20screenshot%20.png?raw=true)
+
 
 
 o Top customers by lifetime value. 
