@@ -16,3 +16,7 @@ and total price (with duplicates and some erroneous values).
 
 3. Product Reviews: Customer ratings and review texts for products, including some missing 
 reviews and inconsistent rating scales.
+
+<a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/customers_info_clean.csv" target="_blank">
+  View customers_info_clean.csv
+</a>
