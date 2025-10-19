@@ -38,7 +38,9 @@ reviews and inconsistent rating scales.
 
 #### Tasks: 
 • Python: Clean and preprocess the data (handle missing values, correct data types). 
+
 • SQL: Create a database, import the cleaned data, and run queries like finding the most 
 purchased products or identifying customers with the highest lifetime value. 
-• Power BI: Visualize trends such as top-selling products, regional sales distribution, and sentiment 
+
+• Tableau: Visualize trends such as top-selling products, regional sales distribution, and sentiment 
 analysis of reviews. 
