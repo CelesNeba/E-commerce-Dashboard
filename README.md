@@ -91,9 +91,12 @@ analysis of reviews.
 
 
 
-o Top customers by lifetime value. 
+#### Top customers by lifetime value. 
 
 ![Top Customers by Lifetime Value](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/Top%20customers%20by%20lifetime%20value%20screenshot%20.png?raw=true)
 
 
-o Product rating trends over time. 
+#### Avg product rating trends over time. 
+
+![Average Rating Trend](https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/Avg%20ratint%20trend%20screenshot%20.png?raw=true)
+
