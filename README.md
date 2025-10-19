@@ -19,19 +19,19 @@ reviews and inconsistent rating scales.
 
 #### Datasets
 
-<a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/customers_info_clean.csv" target="_blank">
+⬤ <a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/customers_info_clean.csv" target="_blank">
   View customers_info_clean.csv
 </a>
 
 <br>
 
-<a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecommerce_product_reviews_clean.csv" target="_blank">
+⬤ <a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecommerce_product_reviews_clean.csv" target="_blank">
   View ecommerce_product_reviews_clean.csv
 </a>
 
 <br>
 
-<a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecommerce_purchase_history_clean.csv" target="_blank">
+⬤ <a href="https://github.com/CelesNeba/E-commerce-Dashboard/blob/main/ecommerce_purchase_history_clean.csv" target="_blank">
   View ecommerce_purchase_history_clean.csv
 </a>
 
