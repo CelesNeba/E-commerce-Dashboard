@@ -125,3 +125,5 @@ o Sales & avg rating over time
 ![E-commerce Dashboard](E.com%20dashboard.png)
 
 
+###### A fully interactive E-commerce dashboard built in Tableau 
+
