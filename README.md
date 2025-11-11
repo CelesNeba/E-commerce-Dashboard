@@ -120,6 +120,8 @@ o Sales & avg rating over time
 
 ###  E-commerce-Dashboard Screenshot
 
-![Tableau Dashboard](E.com dashboard.png)
+
+
+![E-commerce Dashboard](E.com%20dashboard.png)
 
 
