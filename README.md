@@ -113,3 +113,7 @@ o Product popularity trends.
 
 o Customer sentiment analysis from reviews.
 
+o Customers' age and lifetime value
+
+o Sales & avg rating over time
+
