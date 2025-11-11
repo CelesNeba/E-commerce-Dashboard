@@ -117,3 +117,9 @@ o Customers' age and lifetime value
 
 o Sales & avg rating over time
 
+
+###  E-commerce-Dashboard Screenshot
+
+![Tableau Dashboard](tableau_dashboard.png)
+
+
